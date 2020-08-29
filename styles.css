@@ -107,3 +107,7 @@ footer {
   border-top-color: whitesmoke;
   border-top-style: solid;
 }
+
+#proy iframe{
+  border-width: 0px;
+}
